@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\bin\Debug\net8.0\LINQBookCollctions.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\bin\Debug\net8.0\LINQBookCollctions.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\bin\Debug\net8.0\LINQBookCollctions.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\bin\Debug\net8.0\LINQBookCollctions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\bin\Debug\net8.0\LINQBookCollctions.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\refint\LINQBookCollctions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\LINQBookCollctions.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\LINQBookCollctions\obj\Debug\net8.0\ref\LINQBookCollctions.dll

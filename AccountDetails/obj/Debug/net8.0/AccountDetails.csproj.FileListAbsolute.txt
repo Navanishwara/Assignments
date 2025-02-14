@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\bin\Debug\net8.0\AccountDetails.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\bin\Debug\net8.0\AccountDetails.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\bin\Debug\net8.0\AccountDetails.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\bin\Debug\net8.0\AccountDetails.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\bin\Debug\net8.0\AccountDetails.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\refint\AccountDetails.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\AccountDetails.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\AccountDetails\obj\Debug\net8.0\ref\AccountDetails.dll

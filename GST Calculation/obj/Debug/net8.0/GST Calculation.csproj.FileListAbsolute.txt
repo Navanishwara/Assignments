@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\bin\Debug\net8.0\GST Calculation.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\bin\Debug\net8.0\GST Calculation.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\bin\Debug\net8.0\GST Calculation.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\bin\Debug\net8.0\GST Calculation.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\bin\Debug\net8.0\GST Calculation.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\refint\GST Calculation.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\GST Calculation.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\GST Calculation\obj\Debug\net8.0\ref\GST Calculation.dll

@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\bin\Debug\net8.0\InvalidDateException.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\bin\Debug\net8.0\InvalidDateException.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\bin\Debug\net8.0\InvalidDateException.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\bin\Debug\net8.0\InvalidDateException.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\bin\Debug\net8.0\InvalidDateException.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\refint\InvalidDateException.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\InvalidDateException.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\InvalidDateException\obj\Debug\net8.0\ref\InvalidDateException.dll

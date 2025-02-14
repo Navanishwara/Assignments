@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\bin\Debug\net8.0\EmployeeRecordArrays.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\bin\Debug\net8.0\EmployeeRecordArrays.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\bin\Debug\net8.0\EmployeeRecordArrays.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\bin\Debug\net8.0\EmployeeRecordArrays.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\bin\Debug\net8.0\EmployeeRecordArrays.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\refint\EmployeeRecordArrays.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\EmployeeRecordArrays.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\EmployeeRecordArrays\obj\Debug\net8.0\ref\EmployeeRecordArrays.dll

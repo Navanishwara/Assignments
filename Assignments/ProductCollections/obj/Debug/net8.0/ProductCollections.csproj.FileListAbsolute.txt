@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\bin\Debug\net8.0\ProductCollections.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\bin\Debug\net8.0\ProductCollections.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\bin\Debug\net8.0\ProductCollections.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\bin\Debug\net8.0\ProductCollections.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\bin\Debug\net8.0\ProductCollections.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\refint\ProductCollections.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ProductCollections.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\AccountDetails\ProductCollections\obj\Debug\net8.0\ref\ProductCollections.dll
