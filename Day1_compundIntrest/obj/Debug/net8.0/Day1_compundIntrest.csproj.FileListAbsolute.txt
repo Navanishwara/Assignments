@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\bin\Debug\net8.0\Day1_compundIntrest.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\bin\Debug\net8.0\Day1_compundIntrest.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\bin\Debug\net8.0\Day1_compundIntrest.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\bin\Debug\net8.0\Day1_compundIntrest.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\bin\Debug\net8.0\Day1_compundIntrest.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\refint\Day1_compundIntrest.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\Day1_compundIntrest.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_compundIntrest\obj\Debug\net8.0\ref\Day1_compundIntrest.dll

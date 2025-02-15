@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\bin\Debug\net8.0\FilehandlingProduct.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\bin\Debug\net8.0\FilehandlingProduct.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\bin\Debug\net8.0\FilehandlingProduct.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\bin\Debug\net8.0\FilehandlingProduct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\bin\Debug\net8.0\FilehandlingProduct.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\refint\FilehandlingProduct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\FilehandlingProduct.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\FilehandlingProduct\obj\Debug\net8.0\ref\FilehandlingProduct.dll

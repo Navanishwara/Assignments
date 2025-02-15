@@ -1,0 +1,4 @@
+1,mouse, 165
+2,cpu, 15000
+3,monitor, 2625
+4,Keyboard, 1575

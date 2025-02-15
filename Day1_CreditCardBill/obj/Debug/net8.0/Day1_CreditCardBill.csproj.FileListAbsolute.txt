@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\bin\Debug\net8.0\Day1_CreditCardBill.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\bin\Debug\net8.0\Day1_CreditCardBill.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\bin\Debug\net8.0\Day1_CreditCardBill.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\bin\Debug\net8.0\Day1_CreditCardBill.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\bin\Debug\net8.0\Day1_CreditCardBill.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\refint\Day1_CreditCardBill.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\Day1_CreditCardBill.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day1_CreditCardBill\obj\Debug\net8.0\ref\Day1_CreditCardBill.dll
