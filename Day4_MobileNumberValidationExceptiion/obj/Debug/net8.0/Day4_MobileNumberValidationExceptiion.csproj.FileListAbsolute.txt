@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\bin\Debug\net8.0\Day4_MobileNumberValidationExceptiion.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\bin\Debug\net8.0\Day4_MobileNumberValidationExceptiion.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\bin\Debug\net8.0\Day4_MobileNumberValidationExceptiion.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\bin\Debug\net8.0\Day4_MobileNumberValidationExceptiion.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\bin\Debug\net8.0\Day4_MobileNumberValidationExceptiion.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\refint\Day4_MobileNumberValidationExceptiion.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\Day4_MobileNumberValidationExceptiion.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day4_MobileNumberValidationExceptiion\obj\Debug\net8.0\ref\Day4_MobileNumberValidationExceptiion.dll

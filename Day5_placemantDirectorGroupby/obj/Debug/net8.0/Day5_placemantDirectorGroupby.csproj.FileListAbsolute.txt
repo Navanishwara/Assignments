@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\bin\Debug\net8.0\Day5_placemantDirectorGroupby.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\bin\Debug\net8.0\Day5_placemantDirectorGroupby.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\bin\Debug\net8.0\Day5_placemantDirectorGroupby.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\bin\Debug\net8.0\Day5_placemantDirectorGroupby.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\bin\Debug\net8.0\Day5_placemantDirectorGroupby.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\refint\Day5_placemantDirectorGroupby.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\Day5_placemantDirectorGroupby.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_placemantDirectorGroupby\obj\Debug\net8.0\ref\Day5_placemantDirectorGroupby.dll

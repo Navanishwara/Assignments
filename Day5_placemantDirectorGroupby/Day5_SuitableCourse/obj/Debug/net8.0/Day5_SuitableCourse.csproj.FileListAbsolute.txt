@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\bin\Debug\net8.0\Day5_SuitableCourse.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\bin\Debug\net8.0\Day5_SuitableCourse.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\bin\Debug\net8.0\Day5_SuitableCourse.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\bin\Debug\net8.0\Day5_SuitableCourse.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\bin\Debug\net8.0\Day5_SuitableCourse.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\refint\Day5_SuitableCourse.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\Day5_SuitableCourse.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SuitableCourse\obj\Debug\net8.0\ref\Day5_SuitableCourse.dll
