@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\bin\Debug\net8.0\Day5_SortHallList.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\bin\Debug\net8.0\Day5_SortHallList.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\bin\Debug\net8.0\Day5_SortHallList.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\bin\Debug\net8.0\Day5_SortHallList.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\bin\Debug\net8.0\Day5_SortHallList.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\refint\Day5_SortHallList.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\Day5_SortHallList.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\Assignments .NET\Assignments\Day5_SortHallList\obj\Debug\net8.0\ref\Day5_SortHallList.dll
