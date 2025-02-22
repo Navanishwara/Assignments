@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Welcome
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Welcome User</h1>
+
+<form action="/Message/Display" method="post">
+    <label for="UserName">Enter Name</label>
+    <input type="text" name="Title" id="UserName" required />
+    <input type="submit" value="Proceed" />
+</form>
+

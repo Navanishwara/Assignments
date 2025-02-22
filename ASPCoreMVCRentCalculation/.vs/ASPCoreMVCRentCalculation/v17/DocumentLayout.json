@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\views\\home\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\views\\home\\calculate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\models\\rentcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\models\\rentcalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcrentcalculation\\aspcoremvcrentcalculation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD725B4D-3214-4008-BB5F-A765BA9CD15A}|ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation.csproj|solutionrelative:aspcoremvcrentcalculation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:49:00.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:04:03.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculate.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Calculate.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Views\\Home\\Calculate.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Calculate.cshtml",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Views\\Home\\Calculate.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T10:37:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Models\\RentCalculation.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Models\\RentCalculation.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Models\\RentCalculation.cs",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Models\\RentCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:09:03.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Program.cs",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:16:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:12:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCRentCalculation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCRentCalculation\\ASPCoreMVCRentCalculation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASPCoreMVCRentCalculation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T09:16:05.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPCoreMVCRentCalculation.props" />
+</Project>

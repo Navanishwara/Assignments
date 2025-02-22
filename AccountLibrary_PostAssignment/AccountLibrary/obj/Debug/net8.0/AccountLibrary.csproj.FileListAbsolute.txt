@@ -1,0 +1,12 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.csproj.AssemblyReference.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\bin\Debug\net8.0\AccountLibrary.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\refint\AccountLibrary.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\AccountLibrary.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\AccountLibrary\AccountLibrary\obj\Debug\net8.0\ref\AccountLibrary.dll

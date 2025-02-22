@@ -1,0 +1,49 @@
+﻿@model ASPCoreMVCRentCalculation.Models.RentCalculation
+
+@{
+    ViewData["Title"] = "Calculate";
+}
+
+<h1>Calculate</h1>
+
+<div>
+    <h4>RentCalculation</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+           Owner :
+        </dt>
+        <dd class = "col-sm-10">
+            @ViewBag.Name
+        </dd>
+        <dt class = "col-sm-2">
+           Cost Per day:
+        </dt>
+        <dd class = "col-sm-10">
+            @ViewBag.Owner
+        </dd>
+        <dt class = "col-sm-2">
+           Cost per day:
+        </dt>
+        <dd class = "col-sm-10">
+            @ViewBag.cost
+        </dd>
+        <dt class="col-sm-5">
+            Renting from @ViewBag.start to @ViewBag.end
+        </dt>
+        <dd class="col-sm-1">
+            
+        </dd>
+        <br />
+        <dt class="col-sm-10">
+          TotalCost:
+        </dt>
+        <dd class="col-sm-5">
+            @ViewBag.total
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
