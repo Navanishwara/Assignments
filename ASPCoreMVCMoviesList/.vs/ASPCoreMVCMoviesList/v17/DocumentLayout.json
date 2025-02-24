@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\views\\shared\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\moviedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\moviedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvcmovieslist\\aspcoremvcmovielist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63595101-2CE1-4573-AFD0-538CB1628174}|ASPCoreMVCMovieList\\ASPCoreMVCMovieList.csproj|solutionrelative:aspcoremvcmovielist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieDataAccess.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\MovieDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieDataAccess.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\MovieDataAccess.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:47:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovie.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\IMovie.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\IMovie.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\IMovie.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\IMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:32:32.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:22:29.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Program.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:26:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Views\\Shared\\View.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:36:36.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Views\\Shared\\Create.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\Create.cshtml",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Views\\Shared\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:37:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\Movies.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\Movies.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:28:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:28:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieVM.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieVM.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\MovieVM.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieVM.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\MovieVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:39:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieDBContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\MovieDBContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\MovieDBContext.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\MovieDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:39:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:53:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:13:56.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVCMovieList\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVCMoviesList\\ASPCoreMVCMovieList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPCoreMVCMovieList\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:13:25.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

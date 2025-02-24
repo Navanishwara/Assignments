@@ -1,0 +1,27 @@
+﻿@model ASPCoreMVCHallBudjetProblem.Models.Hall
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<hr />
+<div class="index">
+    <h1 class="heading">Welcome to Hall Details</h1>
+
+
+    <form class="form" asp-action="Search">
+
+        <label for="price">Enter the Hall budget per day :  </label>
+        <input type="number" name="price" placeholder="Enter Budget"></input>
+
+        <input type="submit" value="Get Halls" > </input>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ASPCoreMVCHallBudjetProblem.Models.Hall>
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+<h1>Search</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hallName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OwnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.costPerDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.hallName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OwnerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.costPerDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
