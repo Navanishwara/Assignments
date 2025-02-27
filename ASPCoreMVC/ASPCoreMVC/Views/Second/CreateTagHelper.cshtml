@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model ASPCoreMVC.Models.Customer
+@{
+    ViewData["Title"] = "CreateTagHelper";
+}
+
+<form asp-action="Create">
+    <table>
+        <tr>
+            <th>
+                   Enter the ID:
+                </th>
+                <td>
+                    <input asp-for="Id" class="form-control"/>
+                </td>
+        </tr>
+        <tr>
+            <th>Enter the Name:</th>
+            <td>
+                <input asp-for="Name" />
+            </td>
+        </tr>
+       
+        <tr>
+            <th>Select Gender:</th>
+            <td><input type="radio" asp-for="Gender" value="M"/></td>
+            <td><input type="radio" asp-for="Gender" value="M" /></td>
+        </tr>
+        <tr>
+            <th>Select City:</th>
+            <td>
+                <select asp-for="City" asp-items="Model.Cities">
+                    <option value="">--select city---</option>
+                </select>
+             </td>
+        </tr>
+        <tr>
+            <th>select languages</th>
+            <td> 
+            @foreach(var item in Model.Languages){ 
+                <input type="checkbox" asp-for="Languages" value="@item"/>@item 
+             }
+            </td>
+       </tr>
+       
+    </table>
+    <input type="submit" value="submit" />
+</form>

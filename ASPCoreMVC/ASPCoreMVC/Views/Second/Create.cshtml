@@ -1,0 +1,54 @@
+﻿@model ASPCoreMVC.Models.Customer
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+@using (Html.BeginForm()){
+    <table class="table">
+        <tr>
+            <th>
+                @Html.LabelFor(modelItem =>modelItem.Id)
+            </th>
+            <td>
+                @Html.EditorFor(modelItem=>modelItem.Id)
+                
+            </td>
+        </tr>
+        <tr>
+            <th>
+                @Html.LabelFor(modelItem => modelItem.Name,htmlAttributes:new {style="color:red"})
+            </th>
+            <td>
+                @Html.TextBoxFor(modelItem => modelItem.Name)
+            </td>
+        </tr>
+        <tr>
+            <th> select Gender</th>
+            <td>
+                @Html.RadioButtonFor(modelItem => modelItem.Gender,"M",htmlAttributes:new {@checked ="checked"}) Male
+                @Html.RadioButtonFor(modelItem => modelItem.Gender, "F") Female
+            </td>
+        </tr>
+        <tr>
+            <th>
+                select city:
+           </th>
+           <td>
+               @Html.DropDownListFor(modelItem =>modelItem.City,Model.Cities)
+           </td>
+        </tr>
+        <tr>
+            <th>
+                select language:
+</th>
+<td>
+    @foreach(var item in Model.Languages){
+        <input type="checkbox" name="Languages" value="@item"/>@item
+    }
+</td>
+</tr>
+    </table>
+    <input type="submit" value="submit"/>
+}

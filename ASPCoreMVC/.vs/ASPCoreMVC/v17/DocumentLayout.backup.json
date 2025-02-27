@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\second\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\controllers\\secondcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\second\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\second\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\second\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\second\\displaydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\second\\createtaghelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\second\\createtaghelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\aspcoremvc\\aspcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2742D97-8D0B-4908-8B1D-1012273CDAB4}|ASPCoreMVC\\ASPCoreMVC.csproj|solutionrelative:aspcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T05:33:31.943Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Userdetails.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Userdetails.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\Userdetails.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Userdetails.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\Userdetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:12:35.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T10:19:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T10:13:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Program.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:26:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:11:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:40:07.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:09:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\EmpDBContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\EmpDBContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\EmpDBContext.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\EmpDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:04:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\IEmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\IEmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\IEmployeeDataAccess.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\IEmployeeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:02:52.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:03:19.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T05:38:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Second\\Index.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\Index.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Second\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T09:16:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Student.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:56:37.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Course.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:57:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\Customer.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:51:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecondController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\SecondController.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Controllers\\SecondController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Controllers\\SecondController.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Controllers\\SecondController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:09:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPCoreMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T04:28:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T06:36:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T05:46:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\Create.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Second\\Create.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\Create.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Second\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T04:35:21.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DisplayDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\DisplayDetails.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Second\\DisplayDetails.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\DisplayDetails.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Second\\DisplayDetails.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:06:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateTagHelper.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\CreateTagHelper.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Second\\CreateTagHelper.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Second\\CreateTagHelper.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Second\\CreateTagHelper.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T06:23:58.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T06:41:04.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASPCoreMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T07:12:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T07:20:44.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T04:48:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPCoreMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T04:47:27.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\appsettings.Development.json",
+              "RelativeToolTip": "ASPCoreMVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T04:51:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASPCoreMVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ASPCoreMVC\\ASPCoreMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASPCoreMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T04:30:29.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\models\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\models\\iemployeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\models\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\models\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\employeeswebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\employeeswebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\webapiprjs\\employeeswebapi\\employeeswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32151367-7739-4939-A922-EE1CFBB16E1C}|EmployeesWebApi\\EmployeesWebApi.csproj|solutionrelative:employeeswebapi\\employeeswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:41:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:11:59.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:37:04.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\UserDetails.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Models\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:21:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\IEmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Models\\IEmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\IEmployeeDataAccess.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Models\\IEmployeeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:50:46.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:41:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\appsettings.json",
+              "RelativeToolTip": "EmployeesWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T05:37:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Models\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Models\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAASwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:53:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeesWebApi\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:48:46.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesWebApi",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\EmployeesWebApi.csproj",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\EmployeesWebApi.csproj",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\EmployeesWebApi.csproj",
+              "RelativeToolTip": "EmployeesWebApi\\EmployeesWebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T05:39:28.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesWebApi",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\EmployeesWebApi.csproj",
+              "RelativeDocumentMoniker": "EmployeesWebApi\\EmployeesWebApi.csproj",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\EmployeesWebApi\\EmployeesWebApi.csproj",
+              "RelativeToolTip": "EmployeesWebApi\\EmployeesWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T05:38:46.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
