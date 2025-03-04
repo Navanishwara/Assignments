@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOProjectClient", "ADOProjectClient\ADOProjectClient.csproj", "{2A1FBABD-25A1-486C-955A-20F632316E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOLib", "ADOLib\ADOLib.csproj", "{165B208E-86C1-4CEC-985D-B5799D061306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{4519CEDB-7972-4670-AC6C-57DAAA208483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1FBABD-25A1-486C-955A-20F632316E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1FBABD-25A1-486C-955A-20F632316E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1FBABD-25A1-486C-955A-20F632316E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1FBABD-25A1-486C-955A-20F632316E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165B208E-86C1-4CEC-985D-B5799D061306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165B208E-86C1-4CEC-985D-B5799D061306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165B208E-86C1-4CEC-985D-B5799D061306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165B208E-86C1-4CEC-985D-B5799D061306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4519CEDB-7972-4670-AC6C-57DAAA208483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4519CEDB-7972-4670-AC6C-57DAAA208483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4519CEDB-7972-4670-AC6C-57DAAA208483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4519CEDB-7972-4670-AC6C-57DAAA208483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

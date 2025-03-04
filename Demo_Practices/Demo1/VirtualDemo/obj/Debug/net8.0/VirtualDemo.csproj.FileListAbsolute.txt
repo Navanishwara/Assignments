@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\bin\Debug\net8.0\VirtualDemo.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\bin\Debug\net8.0\VirtualDemo.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\bin\Debug\net8.0\VirtualDemo.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\bin\Debug\net8.0\VirtualDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\bin\Debug\net8.0\VirtualDemo.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\refint\VirtualDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\VirtualDemo.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\VirtualDemo\obj\Debug\net8.0\ref\VirtualDemo.dll

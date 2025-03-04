@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcoredbfirstlib\\iemployedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|solutionrelative:efcoredbfirstlib\\iemployedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcoredbfirstlib\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|solutionrelative:efcoredbfirstlib\\employeedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcoredbfirstlib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|solutionrelative:efcoredbfirstlib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcoredbfirstlib\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CF8B62-A52C-4908-BB8D-4F0230413EFA}|EFCoreDBFirstLIb\\EFCoreDBFirstLIb.csproj|solutionrelative:efcoredbfirstlib\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E082F3CB-0713-4E0A-B365-DC03EE5D6F78}|EFCoreConsole\\EFCoreConsole.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcoreconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E082F3CB-0713-4E0A-B365-DC03EE5D6F78}|EFCoreConsole\\EFCoreConsole.csproj|solutionrelative:efcoreconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\icustomerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\icustomerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\cusomerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\cusomerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7229-C572-4DEF-8B1E-83752D04DDB0}|BusinessLayerHRMLIB\\BusinessLayerHRMLIB.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\businesslayerhrmlib\\businesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08C7229-C572-4DEF-8B1E-83752D04DDB0}|BusinessLayerHRMLIB\\BusinessLayerHRMLIB.csproj|solutionrelative:businesslayerhrmlib\\businesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\migrations\\20250219094718_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\migrations\\20250219094718_initial-create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\migrations\\20250219095534_county column aded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\migrations\\20250219095534_county column aded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\migrations\\cusomerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\migrations\\cusomerdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\efcoreprjs\\efcodefirstlib\\efcodefirstlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F05B2D-E283-47E0-974A-2FA794C9891E}|EFCodeFirstLib\\EFCodeFirstLib.csproj|solutionrelative:efcodefirstlib\\efcodefirstlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreConsole\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreConsole\\Program.cs",
+              "RelativeToolTip": "EFCoreConsole\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:40:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMPDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\EMPDBContext.cs",
+              "RelativeDocumentMoniker": "EFCoreDBFirstLIb\\EMPDBContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\EMPDBContext.cs",
+              "RelativeToolTip": "EFCoreDBFirstLIb\\EMPDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:45:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreDBFirstLIb\\Employee.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\Employee.cs",
+              "RelativeToolTip": "EFCoreDBFirstLIb\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:42:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\EmployeeDataAccess.cs",
+              "RelativeDocumentMoniker": "EFCoreDBFirstLIb\\EmployeeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\EmployeeDataAccess.cs",
+              "RelativeToolTip": "EFCoreDBFirstLIb\\EmployeeDataAccess.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:37:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\IEmployeDataAccess.cs",
+              "RelativeDocumentMoniker": "EFCoreDBFirstLIb\\IEmployeDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCoreDBFirstLIb\\IEmployeDataAccess.cs",
+              "RelativeToolTip": "EFCoreDBFirstLIb\\IEmployeDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:01:12.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\ICustomerDataAccess.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\ICustomerDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\ICustomerDataAccess.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\ICustomerDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:16:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\CustomerDataAccess.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\CustomerDataAccess.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\CustomerDataAccess.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\CustomerDataAccess.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:16:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Customer.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\Customer.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Customer.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:13:33.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CusomerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\CusomerDBContext.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\CusomerDBContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\CusomerDBContext.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\CusomerDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:15:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\BusinessLayerHRMLIB\\BusinessLayer.cs",
+              "RelativeDocumentMoniker": "BusinessLayerHRMLIB\\BusinessLayer.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\BusinessLayerHRMLIB\\BusinessLayer.cs",
+              "RelativeToolTip": "BusinessLayerHRMLIB\\BusinessLayer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T04:24:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250219094718_initial-create.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\20250219094718_initial-create.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\Migrations\\20250219094718_initial-create.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\20250219094718_initial-create.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\Migrations\\20250219094718_initial-create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:47:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250219095534_county column aded.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\20250219095534_county column aded.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\Migrations\\20250219095534_county column aded.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\20250219095534_county column aded.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\Migrations\\20250219095534_county column aded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:55:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CusomerDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\CusomerDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\Migrations\\CusomerDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\Migrations\\CusomerDBContextModelSnapshot.cs",
+              "RelativeToolTip": "EFCodeFirstLib\\Migrations\\CusomerDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:59:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFCodeFirstLib.csproj",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\EFCodeFirstLib.csproj",
+              "RelativeDocumentMoniker": "EFCodeFirstLib\\EFCodeFirstLib.csproj",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\EFCorePrjs\\EFCodeFirstLib\\EFCodeFirstLib.csproj",
+              "RelativeToolTip": "EFCodeFirstLib\\EFCodeFirstLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T09:15:05.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

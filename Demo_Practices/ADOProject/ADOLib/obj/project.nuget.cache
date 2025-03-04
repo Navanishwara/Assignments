@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiMFyjUAhr4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\ADOProject\\ADOLib\\ADOLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.2\\system.configuration.configurationmanager.9.0.2.nupkg.sha512",
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.2\\system.security.cryptography.protecteddata.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

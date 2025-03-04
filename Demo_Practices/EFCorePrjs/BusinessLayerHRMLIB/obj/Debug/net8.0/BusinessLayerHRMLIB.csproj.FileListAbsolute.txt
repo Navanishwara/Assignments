@@ -1,0 +1,15 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\bin\Debug\net8.0\BusinessLayerHRMLIB.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\bin\Debug\net8.0\BusinessLayerHRMLIB.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\bin\Debug\net8.0\BusinessLayerHRMLIB.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\refint\BusinessLayerHRMLIB.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\ref\BusinessLayerHRMLIB.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\bin\Debug\net8.0\EFCoreDBFirstLIb.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\bin\Debug\net8.0\EFCoreDBFirstLIb.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\BusinessLayerHRMLIB.csproj.AssemblyReference.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\BusinessLayerHRMLIB\obj\Debug\net8.0\Business.AEF7034B.Up2Date

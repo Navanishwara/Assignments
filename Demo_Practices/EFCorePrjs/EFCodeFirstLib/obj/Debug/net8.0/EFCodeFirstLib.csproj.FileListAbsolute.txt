@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\bin\Debug\net8.0\EFCodeFirstLib.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\bin\Debug\net8.0\EFCodeFirstLib.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\bin\Debug\net8.0\EFCodeFirstLib.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\bin\Debug\net8.0\EFCodeFirstLib.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.csproj.AssemblyReference.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\refint\EFCodeFirstLib.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\EFCodeFirstLib.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\EFCorePrjs\EFCodeFirstLib\obj\Debug\net8.0\ref\EFCodeFirstLib.dll

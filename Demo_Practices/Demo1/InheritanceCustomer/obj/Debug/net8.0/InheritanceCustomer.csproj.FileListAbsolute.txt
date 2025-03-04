@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\bin\Debug\net8.0\InheritanceCustomer.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\bin\Debug\net8.0\InheritanceCustomer.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\bin\Debug\net8.0\InheritanceCustomer.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\bin\Debug\net8.0\InheritanceCustomer.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\bin\Debug\net8.0\InheritanceCustomer.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\refint\InheritanceCustomer.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\InheritanceCustomer.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\InheritanceCustomer\obj\Debug\net8.0\ref\InheritanceCustomer.dll

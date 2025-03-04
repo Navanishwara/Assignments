@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\bin\Debug\net8.0\AbsractDemo.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\bin\Debug\net8.0\AbsractDemo.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\bin\Debug\net8.0\AbsractDemo.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\bin\Debug\net8.0\AbsractDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\bin\Debug\net8.0\AbsractDemo.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\refint\AbsractDemo.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\AbsractDemo.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\AbsractDemo\obj\Debug\net8.0\ref\AbsractDemo.dll

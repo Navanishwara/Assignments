@@ -1,0 +1,14 @@
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\bin\Debug\net8.0\ConsturctorDeconstruct.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\bin\Debug\net8.0\ConsturctorDeconstruct.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\bin\Debug\net8.0\ConsturctorDeconstruct.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\bin\Debug\net8.0\ConsturctorDeconstruct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\bin\Debug\net8.0\ConsturctorDeconstruct.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\refint\ConsturctorDeconstruct.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ConsturctorDeconstruct.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\Demo1\ConsturctorDeconstruct\obj\Debug\net8.0\ref\ConsturctorDeconstruct.dll

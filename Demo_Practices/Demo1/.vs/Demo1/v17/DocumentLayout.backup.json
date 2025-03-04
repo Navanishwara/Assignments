@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2B9666-A5F6-4F93-A4B2-27E2A7450322}|VirtualDemo\\VirtualDemo.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\virtualdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2B9666-A5F6-4F93-A4B2-27E2A7450322}|VirtualDemo\\VirtualDemo.csproj|solutionrelative:virtualdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F40A7E-5995-406F-9A76-C01E0144CEF5}|Task1\\Task1.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\task1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F40A7E-5995-406F-9A76-C01E0144CEF5}|Task1\\Task1.csproj|solutionrelative:task1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34F40A7E-5995-406F-9A76-C01E0144CEF5}|Task1\\Task1.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F40A7E-5995-406F-9A76-C01E0144CEF5}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEA13C8-C97D-4DC1-94E6-14603AA54176}|inheritancep\\inheritancep.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\inheritancep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEA13C8-C97D-4DC1-94E6-14603AA54176}|inheritancep\\inheritancep.csproj|solutionrelative:inheritancep\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA1D037-8314-4511-9CAC-1F8F38CE8365}|InheritanceCustomer\\InheritanceCustomer.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\inheritancecustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA1D037-8314-4511-9CAC-1F8F38CE8365}|InheritanceCustomer\\InheritanceCustomer.csproj|solutionrelative:inheritancecustomer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D90A948-F018-4D92-A202-132B736B3D3C}|InheritanceAccountDetails\\InheritanceAccountDetails.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\inheritanceaccountdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D90A948-F018-4D92-A202-132B736B3D3C}|InheritanceAccountDetails\\InheritanceAccountDetails.csproj|solutionrelative:inheritanceaccountdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDFA2F9-B143-43D9-AC95-0EF9CB6D5F77}|HashTableDemo\\HashTableDemo.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\hashtabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDFA2F9-B143-43D9-AC95-0EF9CB6D5F77}|HashTableDemo\\HashTableDemo.csproj|solutionrelative:hashtabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78687C9-4AAA-4C09-BC5D-4A23799D97A7}|HashsetDemo\\HashsetDemo.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\hashsetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78687C9-4AAA-4C09-BC5D-4A23799D97A7}|HashsetDemo\\HashsetDemo.csproj|solutionrelative:hashsetdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\demo1\\convertmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|solutionrelative:demo1\\convertmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\demo1\\dataconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dataconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\demo1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C9851B-3081-446D-AD80-6280B46716F7}|Demo1\\Demo1.csproj|solutionrelative:demo1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AC5527-AE7E-4DC5-930B-649156CFFEA7}|Day2\\Day2.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AC5527-AE7E-4DC5-930B-649156CFFEA7}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A1413B-F0A1-4851-A8F9-EB618B2077A6}|ConsturctorDeconstruct\\ConsturctorDeconstruct.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\consturctordeconstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A1413B-F0A1-4851-A8F9-EB618B2077A6}|ConsturctorDeconstruct\\ConsturctorDeconstruct.csproj|solutionrelative:consturctordeconstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763B0CBF-7292-4593-ACE7-C45529EC1A28}|AggregationComposition\\AggregationComposition.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\aggregationcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763B0CBF-7292-4593-ACE7-C45529EC1A28}|AggregationComposition\\AggregationComposition.csproj|solutionrelative:aggregationcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A7C3BB-DEE4-4CB8-BC67-48B2DBEB0FB3}|AbsractDemo\\AbsractDemo.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\absractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A7C3BB-DEE4-4CB8-BC67-48B2DBEB0FB3}|AbsractDemo\\AbsractDemo.csproj|solutionrelative:absractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85102523-CD0B-450E-B1F0-120DDB9F2F13}|Constructor chaining\\Constructor chaining.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\constructor chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85102523-CD0B-450E-B1F0-120DDB9F2F13}|Constructor chaining\\Constructor chaining.csproj|solutionrelative:constructor chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AC5527-AE7E-4DC5-930B-649156CFFEA7}|Day2\\Day2.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\demo1\\day2\\constread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AC5527-AE7E-4DC5-930B-649156CFFEA7}|Day2\\Day2.csproj|solutionrelative:day2\\constread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\HashsetDemo\\Program.cs",
+              "RelativeDocumentMoniker": "HashsetDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\HashsetDemo\\Program.cs",
+              "RelativeToolTip": "HashsetDemo\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:26:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\HashTableDemo\\Program.cs",
+              "RelativeDocumentMoniker": "HashTableDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\HashTableDemo\\Program.cs",
+              "RelativeToolTip": "HashTableDemo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:23:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\InheritanceAccountDetails\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceAccountDetails\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\InheritanceAccountDetails\\Program.cs",
+              "RelativeToolTip": "InheritanceAccountDetails\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:24:03.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\InheritanceCustomer\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceCustomer\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\InheritanceCustomer\\Program.cs",
+              "RelativeToolTip": "InheritanceCustomer\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:31:15.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\inheritancep\\Program.cs",
+              "RelativeDocumentMoniker": "inheritancep\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\inheritancep\\Program.cs",
+              "RelativeToolTip": "inheritancep\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:40:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:15:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Task1\\Program1.cs",
+              "RelativeDocumentMoniker": "Task1\\Program1.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Task1\\Program1.cs",
+              "RelativeToolTip": "Task1\\Program1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:15:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\VirtualDemo\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\VirtualDemo\\Program.cs",
+              "RelativeToolTip": "VirtualDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:40:08.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConvertMethod.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\ConvertMethod.cs",
+              "RelativeDocumentMoniker": "Demo1\\ConvertMethod.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\ConvertMethod.cs",
+              "RelativeToolTip": "Demo1\\ConvertMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:41:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataConversion.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\DataConversion.cs",
+              "RelativeDocumentMoniker": "Demo1\\DataConversion.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\DataConversion.cs",
+              "RelativeToolTip": "Demo1\\DataConversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:07:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\Arrays.cs",
+              "RelativeDocumentMoniker": "Demo1\\Arrays.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Demo1\\Arrays.cs",
+              "RelativeToolTip": "Demo1\\Arrays.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:41:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:42:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\AggregationComposition\\Program.cs",
+              "RelativeDocumentMoniker": "AggregationComposition\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\AggregationComposition\\Program.cs",
+              "RelativeToolTip": "AggregationComposition\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:41:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\AbsractDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AbsractDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\AbsractDemo\\Program.cs",
+              "RelativeToolTip": "AbsractDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:41:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Constructor chaining\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor chaining\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Constructor chaining\\Program.cs",
+              "RelativeToolTip": "Constructor chaining\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:42:10.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\ConsturctorDeconstruct\\Program.cs",
+              "RelativeDocumentMoniker": "ConsturctorDeconstruct\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\ConsturctorDeconstruct\\Program.cs",
+              "RelativeToolTip": "ConsturctorDeconstruct\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:41:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConstRead.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Day2\\ConstRead.cs",
+              "RelativeDocumentMoniker": "Day2\\ConstRead.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\Demo1\\Day2\\ConstRead.cs",
+              "RelativeToolTip": "Day2\\ConstRead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:42:33.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
