@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\consumeapi.js",
+      "PackagePath": "staticwebassets\\Lib\\consumeapi.js"
+    },
+    {
+      "Id": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\Lib\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI_JavaScriptClient.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAPI_JavaScriptClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAPI_JavaScriptClient.props",
+      "PackagePath": "build\\WebAPI_JavaScriptClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI_JavaScriptClient.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI_JavaScriptClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAPI_JavaScriptClient.props",
+      "PackagePath": "buildTransitive\\WebAPI_JavaScriptClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

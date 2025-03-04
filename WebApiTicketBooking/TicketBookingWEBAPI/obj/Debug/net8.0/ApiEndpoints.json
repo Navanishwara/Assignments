@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "TicketBookingWEBAPI.Controllers.TicketController",
+    "Method": "BookTicket",
+    "RelativePath": "api/Ticket/bookTicket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "seatingType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ticketCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TicketBookingWEBAPI.Controllers.TicketController",
+    "Method": "GetSeatingSection",
+    "RelativePath": "api/Ticket/GetSeatingSections",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

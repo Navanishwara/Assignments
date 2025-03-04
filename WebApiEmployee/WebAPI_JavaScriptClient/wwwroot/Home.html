@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Lib/jquery-3.7.1.min.js"></script>
+    <script src="Lib/consumeapi.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btnGetAll").click(getAllEmps);
+            $("#btnAdd").click(addemp);
+            $("#btnDelete").click(deleteEmpById);
+            $("#btnUpdate").click(updateEmp);
+            $("#btnFind").click(getEmpById);
+        })
+    </script>
+</head>
+<body>
+    <h1>Consumeing web API using Jquery AJAX</h1>
+    <!--<input type="button" id="btnGetAll" value="Display" />-->
+    <table>
+        <tr>
+            <th> Enter the empid</th>
+            <td><input type="number" id="empid" /></td>
+        </tr>
+        <tr>
+            <th> Enter the Name:</th>
+            <td><input type="text" id="txtName" /></td>
+        </tr>
+        <tr>
+            <th> Enter the salary</th>
+            <td><input type="number" id="txtsal" /></td>
+        </tr>
+        <tr>
+            <th> Enter the depid</th>
+            <td><input type="number" id="txtdid" /></td>
+        </tr>
+    </table>
+    <input type="button" value="Display" id="btnGetAll" />
+    <input type="button" value="Search By id" id="btnFind" />
+    <input type="button" value="insert" id="btnAdd" />
+    <input type="button" value="delete" id="btnDelete" />
+    <input type="button" value="update" id="btnUpdate" />
+    <div id="d1"></div>
+</body>
+</html>

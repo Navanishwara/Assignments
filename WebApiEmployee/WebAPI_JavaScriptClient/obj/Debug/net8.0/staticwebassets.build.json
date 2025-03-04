@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "wktBkoQC+NUBGG3P5E01TtM1xjL9rmUxj9M0iP/5cNY=",
+  "Source": "WebAPI_JavaScriptClient",
+  "BasePath": "_content/WebAPI_JavaScriptClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI_JavaScriptClient\\wwwroot",
+      "Source": "WebAPI_JavaScriptClient",
+      "ContentRoot": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\",
+      "BasePath": "_content/WebAPI_JavaScriptClient",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Home.html",
+      "SourceId": "WebAPI_JavaScriptClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\",
+      "BasePath": "_content/WebAPI_JavaScriptClient",
+      "RelativePath": "Home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9l6odxkcq",
+      "Integrity": "Mi1IJdrJCGBxbCgdkFlQy3VJI7bSN0z8F8WAxyEgv5w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\consumeapi.js",
+      "SourceId": "WebAPI_JavaScriptClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\",
+      "BasePath": "_content/WebAPI_JavaScriptClient",
+      "RelativePath": "Lib/consumeapi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wprvg41oxh",
+      "Integrity": "FE5F3iqw6CNP7rQi+ya+LNloJNtTSnM4O5AdFfbEvVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Lib\\consumeapi.js"
+    },
+    {
+      "Identity": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\jquery-3.7.1.min.js",
+      "SourceId": "WebAPI_JavaScriptClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\",
+      "BasePath": "_content/WebAPI_JavaScriptClient",
+      "RelativePath": "Lib/jquery-3.7.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Lib\\jquery-3.7.1.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mi1IJdrJCGBxbCgdkFlQy3VJI7bSN0z8F8WAxyEgv5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:51:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mi1IJdrJCGBxbCgdkFlQy3VJI7bSN0z8F8WAxyEgv5w="
+        }
+      ]
+    },
+    {
+      "Route": "Home.u9l6odxkcq.html",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mi1IJdrJCGBxbCgdkFlQy3VJI7bSN0z8F8WAxyEgv5w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:51:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9l6odxkcq"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mi1IJdrJCGBxbCgdkFlQy3VJI7bSN0z8F8WAxyEgv5w="
+        }
+      ]
+    },
+    {
+      "Route": "Lib/consumeapi.js",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\consumeapi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FE5F3iqw6CNP7rQi+ya+LNloJNtTSnM4O5AdFfbEvVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 11:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FE5F3iqw6CNP7rQi+ya+LNloJNtTSnM4O5AdFfbEvVI="
+        }
+      ]
+    },
+    {
+      "Route": "Lib/consumeapi.wprvg41oxh.js",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\consumeapi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FE5F3iqw6CNP7rQi+ya+LNloJNtTSnM4O5AdFfbEvVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 11:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wprvg41oxh"
+        },
+        {
+          "Name": "label",
+          "Value": "Lib/consumeapi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FE5F3iqw6CNP7rQi+ya+LNloJNtTSnM4O5AdFfbEvVI="
+        }
+      ]
+    },
+    {
+      "Route": "Lib/jquery-3.7.1.min.js",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Aug 2023 10:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "Lib/jquery-3.7.1.min.o1o13a6vjx.js",
+      "AssetFile": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\wwwroot\\Lib\\jquery-3.7.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Aug 2023 10:37:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "Lib/jquery-3.7.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    }
+  ]
+}

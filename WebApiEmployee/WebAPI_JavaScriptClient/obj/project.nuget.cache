@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dx1nYM8+csM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\WebApiPrjs\\WebAPI_JavaScriptClient\\WebAPI_JavaScriptClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malave.navanishwara\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

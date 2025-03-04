@@ -1,0 +1,3 @@
+wwwroot\Home.html
+wwwroot\Lib\consumeapi.js
+wwwroot\Lib\jquery-3.7.1.min.js

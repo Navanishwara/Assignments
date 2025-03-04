@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TicketBookingWEBAPI.Model.TicketBooking>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h2>Seat Bookings</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.seatingType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ticketCost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.numberOfTickets)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.seatingType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ticketCost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numberOfTickets)
+            </td>
+            @* <td> *@
+            @*     @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) | *@
+            @*     @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) | *@
+            @*     @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }) *@
+            @* </td> *@
+        </tr>
+        }
+       
+
+    </tbody>
+   
+</table>
+
+@* <tr><input type="submit" name="Book" value="Book" /></tr> *@
+<a asp-action="BookTicket">Book</a>
