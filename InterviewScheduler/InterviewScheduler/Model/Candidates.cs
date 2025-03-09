@@ -3,18 +3,25 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace InterviewScheduler.Model
 {
-    [Table("Candidates")]
+    [Table("candidates")]
     public class Candidates
     {
         [Key]
-        [Column("CandidateId")]
+        [Column("candidateid")]
         public int CandidateId { get; set; }
-        [Column("CandidateName")]
+        [Column("candidatename")]
         public string CandidateName { get; set; }
-        [Column("emailId")]
+        [Column("emailid")]
         public string emailId { get; set; }
+        [Column("phone")]
+        public string phone {  get; set; }
         [Column("resume")]
-        public byte[] resume { get; set; }
+        public byte[]? resume { get; set; }
+        [NotMapped]
+        public IFormFile resumefile { get; set; }
+
+       // public int RecruiterId
+        public Recruiter Recruiter { get; set; }
 
     }
 }

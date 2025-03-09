@@ -1,3 +1,6 @@
+using InterviewScheduler.Model;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<InterviewDbContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString("Constr"));
+});
+
+builder.Services.AddScoped<IInterviewDataAccess,  InterviewDataAccess>();
 
 var app = builder.Build();
 
