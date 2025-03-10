@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ol17gB36dAg6IL0rKNTZ1FKjJ5bmdwgN3v8Cs8+TLv8=",
+  "Source": "PhoneBookApi",
+  "BasePath": "_content/PhoneBookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

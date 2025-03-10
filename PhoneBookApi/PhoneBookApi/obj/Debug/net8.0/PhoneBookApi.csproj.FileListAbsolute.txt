@@ -1,0 +1,111 @@
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.csproj.AssemblyReference.cache
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.AssemblyInfoInputs.cache
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.AssemblyInfo.cs
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.csproj.CoreCompileInputs.cache
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.MvcApplicationPartsAssemblyInfo.cs
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.MvcApplicationPartsAssemblyInfo.cache
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.sourcelink.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\appsettings.Development.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\appsettings.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.staticwebassets.endpoints.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.exe
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.deps.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.runtimeconfig.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.pdb
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Npgsql.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\scopedcss\bundle\PhoneBookApi.styles.css
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.PhoneBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.PhoneBookApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PhoneBookApi.props
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PhoneBookApi.props
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PhoneBookApi.props
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBoo.6F83B163.Up2Date
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\refint\PhoneBookApi.dll
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.pdb
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.genruntimeconfig.cache
+D:\tavantrepo\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\ref\PhoneBookApi.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\appsettings.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.staticwebassets.endpoints.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.exe
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.deps.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.runtimeconfig.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\PhoneBookApi.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Npgsql.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.csproj.AssemblyReference.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.AssemblyInfoInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.AssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.csproj.CoreCompileInputs.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\scopedcss\bundle\PhoneBookApi.styles.css
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.PhoneBookApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.PhoneBookApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PhoneBookApi.props
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PhoneBookApi.props
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PhoneBookApi.props
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBoo.6F83B163.Up2Date
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\refint\PhoneBookApi.dll
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.pdb
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\PhoneBookApi.genruntimeconfig.cache
+C:\Users\malave.navanishwara\OneDrive - Tavant Technologies\.NET Core\day2\PhoneBookApi\PhoneBookApi\obj\Debug\net8.0\ref\PhoneBookApi.dll
