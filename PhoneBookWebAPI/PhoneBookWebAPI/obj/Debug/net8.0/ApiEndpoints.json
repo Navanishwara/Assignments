@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "PhoneBookWebAPI.Controllers.ContactController",
+    "Method": "Post",
+    "RelativePath": "api/Contact/AddContact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "PhoneBookWebAPI.Model.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhoneBookWebAPI.Controllers.ContactController",
+    "Method": "Delete",
+    "RelativePath": "api/Contact/DeleteById/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhoneBookWebAPI.Controllers.ContactController",
+    "Method": "GetContactById",
+    "RelativePath": "api/Contact/GetContactById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhoneBookWebAPI.Controllers.ContactController",
+    "Method": "Put",
+    "RelativePath": "api/Contact/GetContactById/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contact",
+        "Type": "PhoneBookWebAPI.Model.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PhoneBookWebAPI.Controllers.ContactController",
+    "Method": "GetContactList",
+    "RelativePath": "api/Contact/GetContactList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

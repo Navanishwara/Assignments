@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\model\\contactdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\model\\contactdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\model\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\model\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\model\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\model\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\phonebookwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\phonebookwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|c:\\users\\malave.navanishwara\\onedrive - tavant technologies\\.net core\\day2\\phonebookwebapi\\phonebookwebapi\\phonebookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C762F935-97AE-43D9-A360-B691B7334978}|PhoneBookWebAPI\\PhoneBookWebAPI.csproj|solutionrelative:phonebookwebapi\\phonebookwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\ContactDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Model\\ContactDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\ContactDataAccessLayer.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Model\\ContactDataAccessLayer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:46:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAMwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:47:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\Contact.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Model\\Contact.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvyEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:45:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\ContactDBContext.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Model\\ContactDBContext.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\ContactDBContext.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Model\\ContactDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:46:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\IContact.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Model\\IContact.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Model\\IContact.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Model\\IContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:46:10.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\Program.cs",
+              "RelativeToolTip": "PhoneBookWebAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:45:06.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\appsettings.json",
+              "RelativeToolTip": "PhoneBookWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T02:59:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhoneBookWebAPI.http",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\PhoneBookWebAPI.http",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\PhoneBookWebAPI.http",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\PhoneBookWebAPI.http",
+              "RelativeToolTip": "PhoneBookWebAPI\\PhoneBookWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-10T04:13:41.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhoneBookWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\PhoneBookWebAPI.csproj",
+              "RelativeDocumentMoniker": "PhoneBookWebAPI\\PhoneBookWebAPI.csproj",
+              "ToolTip": "C:\\Users\\malave.navanishwara\\OneDrive - Tavant Technologies\\.NET Core\\day2\\PhoneBookWebAPI\\PhoneBookWebAPI\\PhoneBookWebAPI.csproj",
+              "RelativeToolTip": "PhoneBookWebAPI\\PhoneBookWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T02:45:11.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
